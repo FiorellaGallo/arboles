@@ -1,0 +1,76 @@
+# depslib dependency file v1.0
+1730152879 source:c:\users\usuario\onedrive\escritorio\unlu\3er cuatrimestre\programacion ii\tp5\ejercicio7\arbol-binario-busqueda.c
+	"arbol-binario-busqueda.h"
+	"nodo.h"
+
+1730153063 c:\users\usuario\onedrive\escritorio\unlu\3er cuatrimestre\programacion ii\tp5\ejercicio7\arbol-binario-busqueda.h
+	<stdbool.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"nodo.h"
+	"tipo_elemento.h"
+
+1730152165 c:\users\usuario\onedrive\escritorio\unlu\3er cuatrimestre\programacion ii\tp5\ejercicio7\nodo.h
+	"tipo_elemento.h"
+
+1730152163 c:\users\usuario\onedrive\escritorio\unlu\3er cuatrimestre\programacion ii\tp5\ejercicio7\tipo_elemento.h
+
+1730152354 source:c:\users\usuario\onedrive\escritorio\unlu\3er cuatrimestre\programacion ii\tp5\ejercicio7\arbol-binario.c
+	<stdlib.h>
+	<string.h>
+	"arbol-binario.h"
+	"colas.h"
+	"nodo.h"
+
+1730152419 c:\users\usuario\onedrive\escritorio\unlu\3er cuatrimestre\programacion ii\tp5\ejercicio7\arbol-binario.h
+	<stdbool.h>
+	"nodo.h"
+	"tipo_elemento.h"
+
+1730152358 c:\users\usuario\onedrive\escritorio\unlu\3er cuatrimestre\programacion ii\tp5\ejercicio7\colas.h
+	<stdbool.h>
+	"tipo_elemento.h"
+
+1730152662 source:c:\users\usuario\onedrive\escritorio\unlu\3er cuatrimestre\programacion ii\tp5\ejercicio7\colas_punteros.c
+	"colas.h"
+	<stdlib.h>
+	<stdio.h>
+	<stdbool.h>
+
+1730154388 source:c:\users\usuario\onedrive\escritorio\unlu\3er cuatrimestre\programacion ii\tp5\ejercicio7\ejercicio7.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	"arbol-binario.h"
+	"nodo.h"
+
+1730155411 source:c:\users\usuario\onedrive\escritorio\unlu\3er cuatrimestre\programacion ii\tp5\ejercicio7\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	"arbol-binario.h"
+	"nodo.h"
+	"tipo_elemento.h"
+
+1730152412 source:c:\users\usuario\onedrive\escritorio\unlu\3er cuatrimestre\programacion ii\tp5\ejercicio7\nodo.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"nodo.h"
+
+1730152192 source:c:\users\usuario\onedrive\escritorio\unlu\3er cuatrimestre\programacion ii\tp5\ejercicio7\tipo_elemento.c
+	"tipo_elemento.h"
+	<stdlib.h>
+
+1730154355 source:c:\users\usuario\onedrive\escritorio\unlu\3er cuatrimestre\programacion ii\tp5\ejercicio7\arbol-avl.c
+	"nodo.h"
+	"arbol-avl.h"
+
+1730152919 c:\users\usuario\onedrive\escritorio\unlu\3er cuatrimestre\programacion ii\tp5\ejercicio7\arbol-avl.h
+	<stdbool.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"nodo.h"
+
