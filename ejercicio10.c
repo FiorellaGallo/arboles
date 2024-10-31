@@ -84,3 +84,10 @@ void comparar(int repeticiones){
     printf("Promedio de altura de AVL: %d\n", acum_altura_avl / repeticiones);
     printf("Promedio de altura de ABB: %d\n", acum_altura_abb / repeticiones);
 }
+
+
+// Se puede concluir que los árboles AVL, al tener menos altura que los árboles ABB debido
+// a que están balanceados, tienen un rendimiento superior en sus operaciones cuando se 
+// trabaja con una gran cantidad de datos. Esto se debe a que la complejidad algorítmica
+// de las operaciones en los ABB es de orden lineal O(n), pero en los AVL es de orden
+// logarítmico O(log n). Mientras mayor es el problema, O(log n) < O(n).
